@@ -32,3 +32,9 @@ dist-ssr
 
 # TypeScript
 *.tsbuildinfo
+*.d.ts
+
+# Build
+dist/
+build/
+coverage/
