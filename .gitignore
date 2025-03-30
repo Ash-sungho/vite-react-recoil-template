@@ -38,3 +38,8 @@ dist-ssr
 dist/
 build/
 coverage/
+
+# Generated files
+tsconfig.tsbuildinfo
+tsconfig.node.tsbuildinfo
+vite.config.js
